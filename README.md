@@ -44,7 +44,6 @@ hyuntaekoh0316@gmail.com | [LinkedIn](https://www.linkedin.com/in/hyuntaek-oh-31
 - Django backend for text parsing, upload, and SQLite storage
 - User features: dark mode, font toggling, bookmarking
 - Lightweight platform for mobile novel readers
-- [Link](https://github.com/raphy0316/YSViewer)
 
 ---
 
@@ -62,7 +61,6 @@ hyuntaekoh0316@gmail.com | [LinkedIn](https://www.linkedin.com/in/hyuntaek-oh-31
 
 - PM role: led team of 3 devs, scoped project, designed UI and upgrade mechanics
 - Integrated alphabet-based stat system to mix gameplay with language learning
-[Link](https://github.com/raphy0316/WhoAmI)
 ---
 
 ### [Second Touch](https://github.com/raphy0316/SecondHand)
@@ -71,7 +69,6 @@ hyuntaekoh0316@gmail.com | [LinkedIn](https://www.linkedin.com/in/hyuntaek-oh-31
 - Developed a directional layout algorithm based on Hangul patterns
 - Tested with users and improved usability via feedback loops
 - Won Silver Prize, 2018 Seoul Creative IT Competition
-[Link](https://github.com/raphy0316/SecondTouch)
 ---
 
 ## What I'm Interested In
