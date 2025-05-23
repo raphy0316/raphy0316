@@ -1,8 +1,8 @@
-# Hi, I'm Hyuntaek Oh
+# Hi, I'm Rahael(Hyuntaek) Oh
 
 I'm a full-stack software developer and CS student at the University of Wisconsin–Madison (graduating May 2026). I love building real-world systems that solve real problems—from AI-powered chat platforms to assistive tech for accessibility.
 
-hyuntaekoh0316@gmail.com | [LinkedIn](https://www.linkedin.com/in/hyuntaek-oh-3155b1332/) | [Resume](https://1drv.ms/b/c/6fbd824c4c15afcd/EWT0yJfp265Lgu-5YsC4g00BGGCX_7USlawzQ-A2eQ8meg?e=f89d2Z)
+hyuntaekoh0316@gmail.com | [LinkedIn](https://www.linkedin.com/in/raphael-oh-3155b1332/) | [Resume](https://1drv.ms/b/c/6fbd824c4c15afcd/EU5iB0FN9fZDr4LYCyL3RJQBCLek9TPMvR9pbOnrS7aYZQ?e=NEuVNK)
 
 ---
 
