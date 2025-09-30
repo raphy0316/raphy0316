@@ -24,7 +24,7 @@ raphael.oh0316@gmail.com | [LinkedIn](https://www.linkedin.com/in/raphael-oh-315
 - Built real-time multi-user communication with Socket.io
 - Dual backend: Spring Boot for user/auth, Node.js for real-time stream APIs
 - Dockerized infrastructure with Nginx proxy  
-- [Auth Server](https://github.com/jparkrighthere/LivePalette) · [Stream Server](https://github.com/jparkrighthere/streamServer) · [Notion]([https://www.notion.so/Live-Palette-1665b881fcb880b990bded2919d65bb5](https://www.notion.so/Live-Pallete-27dd0b7951b680dc9fdeff701c40d3b3?source=copy_link))
+- [Auth Server](https://github.com/jparkrighthere/LivePalette) · [Stream Server](https://github.com/jparkrighthere/streamServer) · [Notion](https://www.notion.so/Live-Pallete-27dd0b7951b680dc9fdeff701c40d3b3?source=copy_link)
 
 ---
 
@@ -34,7 +34,7 @@ raphael.oh0316@gmail.com | [LinkedIn](https://www.linkedin.com/in/raphael-oh-315
 - Next.js + PostgreSQL backend with Firebase Realtime DB sync
 - Admin role-based auth and real-time course-based chatrooms
 - Data ingestion pipeline for academic datasets using chunked inserts and transactional syncs
-- [Frontend (React Native)](https://github.com/raphy0316/BuckyClass-mobile-ReactNative) · [Backend](https://github.com/raphy0316/BuckyClass-general-api) · [Notion]([https://www.notion.so/LIKELION-UW-MADISON-CS-Team-2-Project-Dashboard-193fa6de67e380fdbf9aedc77e3e61e1](https://www.notion.so/Grow-27dd0b7951b6804a8a4cf7cb0f7489d1?source=copy_link))
+- [Frontend (React Native)](https://github.com/raphy0316/BuckyClass-mobile-ReactNative) · [Backend](https://github.com/raphy0316/BuckyClass-general-api) · [Notion](https://www.notion.so/Grow-27dd0b7951b6804a8a4cf7cb0f7489d1?source=copy_link)
 
 ---
 
