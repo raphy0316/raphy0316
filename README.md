@@ -2,21 +2,36 @@
 
 I'm a full-stack software developer and CS student at the University of Wisconsin–Madison (graduating Fall 2026). I love building real-world systems that solve real problems—from AI-powered chat platforms to assistive tech for accessibility.
 
-raphael.oh0316@gmail.com | [LinkedIn](https://www.linkedin.com/in/raphael-oh-3155b1332/) | [Resume](https://1drv.ms/b/c/6fbd824c4c15afcd/EU5iB0FN9fZDr4LYCyL3RJQBCLek9TPMvR9pbOnrS7aYZQ?e=NEuVNK) | [Portfolio](https://www.notion.so/Portfolio-27cd0b7951b680aca051d1c3cd7d6ced?source=copy_link)
+raphael.oh0316@gmail.com | [Resume](https://1drv.ms/b/c/6fbd824c4c15afcd/EU5iB0FN9fZDr4LYCyL3RJQBCLek9TPMvR9pbOnrS7aYZQ?e=NEuVNK) | [Portfolio](https://www.notion.so/Portfolio-27cd0b7951b680aca051d1c3cd7d6ced?source=copy_link) | [LinkedIn](https://www.linkedin.com/in/raphael-oh-3155b1332/)
 
 ---
 
 ## Tech Stack
 
-- **Languages:** TypeScript, Java, Python, C++, JavaScript, C#
-- **Frameworks:** Spring Boot, Next.js, React, React Native, Django, Node.js (Express)
-- **Databases:** PostgreSQL, MongoDB, MySQL
-- **Tools & DevOps:** Docker, AWS (EC2/S3), GitHub Actions, Firebase, Redis
-- **AI/ML:** PyTorch, scikit-learn
+- **Languages:** Python, Java, TypeScript, C++  
+- **Frameworks:** FastAPI, Spring Boot, Node.js (Express), Next.js  
+- **Databases:** PostgreSQL, MySQL, MongoDB, Redis, Pinecone, Apache Spark, SQLAlchemy, Alembic  
+- **AI/ML:** PyTorch, scikit-learn, Hugging Face (Transformers), CNNs, LLMs, Prompt Engineering, YOLOv8, MoveNet (Pose Estimation)  
+- **Cloud & DevOps:** Docker, AWS (EC2, S3, Textract, Comprehend Medical), Firebase (Auth & Realtime DB), Vercel, Render, Nginx, Neon  
 
 ---
 
 ## Featured Projects
+
+
+### [SAIL — Basketball Shooting Form Analysis](https://github.com/raphy0316/basketball-form-analyzer)
+> Real-time mobile basketball shooting analysis with pose estimation, ball tracking, and coach-style feedback
+
+- Optimized mobile pose estimation with **MoveNet Thunder (TensorFlow Hub)** using preprocessing (cropping, color correction, confidence filtering)  
+- Trained **YOLOv8 (Ultralytics, PyTorch)** for reliable basketball detection and tracking in varied video conditions  
+- Designed 6-phase shot segmentation (setup → loading → rising → release → follow-through) with cancellation logic for noise reduction  
+- Engineered **DTW-based similarity scoring** with biomechanical features (angles, release timing, jump height, velocities)  
+- Integrated **LLM feedback layer (OpenAI API)** to generate concise, coach-style training tips from motion deviations  
+- Reduced latency with caching, deduplication, and prompt compaction → near real-time feedback on mobile  
+- Tech: **Python, TensorFlow, PyTorch, OpenCV, NumPy/Pandas, FastAPI, Docker, React Native**
+- [Notion](https://www.notion.so/Basketball-Shooting-Analyzer-SAIL-OpenAI-UW-Madison-27dd0b7951b680f1b8d4c23a2d0962ea?source=copy_link) 
+
+---
 
 ### [Live Palette](https://github.com/jparkrighthere/LivePalette)
 > Real-time whiteboard and video conferencing platform for collaborative design meetings
