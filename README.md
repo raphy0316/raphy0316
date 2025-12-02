@@ -40,7 +40,7 @@ _A real-time AI coach analyzing biomechanics from video_
 ## **InsightHub — Multimodal AI Evaluation Platform** *(In Progress)*
 _A benchmarking & evaluation platform for multimodal models (CLIP, CLAP, ImageBind)_
 
-- Built **Kafka + Celery + Redis** distributed inference pipeline  
+- Built **Celery + Redis** distributed inference pipeline  
 - Benchmarked multimodal models for **image → music retrieval**  
 - Integrated **CLIP × CLAP**, **EmoCLIP**, and **ImageBind** with cosine similarity + text-pivot alignment  
 - Added **RRF (Reciprocal Rank Fusion)** ensemble scoring  
