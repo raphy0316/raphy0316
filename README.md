@@ -11,12 +11,12 @@ raphael.oh0316@gmail.com · [Resume](https://1drv.ms/b/c/6fbd824c4c15afcd/EU5iB0
 
 ## Tech Stack
 
-**Languages:** Python, Java, TypeScript, C++  
-**Frameworks:** FastAPI, Spring Boot, Node.js (Express), Next.js, React Native  
-**Databases:** PostgreSQL, MySQL, MongoDB, Redis  
-**Infra/Data:** Docker, AWS (EC2/S3/Textract/Comprehend Medical), GCP Dataproc, Kafka, Celery, Prometheus, Grafana, Apache Spark  
-**AI/ML:** PyTorch, Hugging Face, CLIP/CLAP, YOLOv8, MoveNet, scikit-learn, Pinecone, BM25/RRF  
-**MLOps:** Vector DBs, ETL pipelines, batch/stream ingestion, distributed inference, model serving, profiling  
+**Languages**: Python, Java, TypeScript, C++
+**Frameworks**: FastAPI, Spring Boot, Node.js (Express), Next.js, React Native (Expo), Django
+**Databases**: PostgreSQL (Neon), Supabase, MySQL, MongoDB, Redis
+**Infra/Data**: Docker, Nginx, AWS (EC2/S3/Textract/Comprehend Medical), GCP Dataproc, Google Cloud Run, Kafka, Celery, Firebase Authentication & Realtime DB, Apache Spark
+**AI/ML**: PyTorch, Hugging Face (Transformers, BioBERT), CLIP/CLAP/EmoCLIP/ImageBind, YOLOv8, MoveNet, scikit-learn, Pinecone (Vector DB), BM25/TF-IDF/RRF, AWS Comprehend Medical, Tesseract/PaddleOCR/Textract
+**MLOp**s: Vector DB pipelines, ETL pipelines, batch/stream data ingestion, distributed inference (Celery + Redis), model serving (FastAPI + Docker), monitoring (Prometheus + Grafana), profiling & experiment tracking
 
 ---
 
