@@ -37,7 +37,7 @@ _A real-time AI coach analyzing biomechanics from video_
 
 ---
 
-## 🧠 **InsightHub — Multimodal AI Evaluation Platform** *(In Progress)*
+## **InsightHub — Multimodal AI Evaluation Platform** *(In Progress)*
 _A benchmarking & evaluation platform for multimodal models (CLIP, CLAP, ImageBind)_
 
 - Built **Kafka + Celery + Redis** distributed inference pipeline  
@@ -51,7 +51,7 @@ _A benchmarking & evaluation platform for multimodal models (CLIP, CLAP, ImageBi
 
 ---
 
-## **NovelCanvas — AI Novel Worldbuilding Engine** *(In Progress)*
+## **NovelCanvas — AI Novel Worldbuilding Engine** *(In Progress, Private)*
 _An LLM-powered system that extracts, normalizes, and manages story settings_
 
 - Built an **LLM-driven extractor** for characters, places, items, relationships, skills  
