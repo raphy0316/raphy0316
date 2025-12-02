@@ -12,15 +12,10 @@ raphael.oh0316@gmail.com · [Resume](https://1drv.ms/b/c/6fbd824c4c15afcd/EU5iB0
 ## Tech Stack
 
 **Languages**: Python, Java, TypeScript, C++
-
 **Frameworks**: FastAPI, Spring Boot, Node.js (Express), Next.js, React Native (Expo), Django
-
 **Databases**: PostgreSQL (Neon), Supabase, MySQL, MongoDB, Redis
-
 **Infra/Data**: Docker, Nginx, AWS (EC2/S3/Textract/Comprehend Medical), GCP Dataproc, Google Cloud Run, Kafka, Celery, Firebase Authentication & Realtime DB, Apache Spark
-
 **AI/ML**: PyTorch, Hugging Face (Transformers, BioBERT), CLIP/CLAP/EmoCLIP/ImageBind, YOLOv8, MoveNet, scikit-learn, Pinecone (Vector DB), BM25/TF-IDF/RRF, AWS Comprehend Medical, Tesseract/PaddleOCR/Textract
-
 **MLOp**s: Vector DB pipelines, ETL pipelines, batch/stream data ingestion, distributed inference (Celery + Redis), model serving (FastAPI + Docker), monitoring (Prometheus + Grafana), profiling & experiment tracking
 
 ---
@@ -38,7 +33,7 @@ _A real-time AI coach analyzing biomechanics from video_
 - Integrated an **LLM feedback module** that generates personalized, coach-style tips  
 - Tech: Python, TensorFlow Hub, PyTorch, OpenCV, FastAPI, Docker, React Native
 
-[GitHub](https://github.com/raphy0316/basketball-form-analyzer) · [Notion](https://www.notion.so/Basketball-Shooting-Analyzer-SAIL-OpenAI-UW-Madison-27dd0b7951b680f1b8d4c23a2d0962ea?source=copy_link)
+[GitHub](https://github.com/raphy0316/basketball-form-analyzer) · [Portfolio](https://www.notion.so/Basketball-Shooting-Analyzer-SAIL-OpenAI-UW-Madison-27dd0b7951b680f1b8d4c23a2d0962ea?source=copy_link)
 
 ---
 
@@ -52,7 +47,7 @@ _A benchmarking & evaluation platform for multimodal models (CLIP, CLAP, ImageBi
 - Monitored runtime with **Prometheus + Grafana**, including GPU/CPU load & worker queues  
 - Designed scalable DB schema: models, datasets, embeddings, runs, metrics
 
-[Backend](https://github.com/raphy0316/InsightHub) · [Model](https://github.com/raphy0316/Insight-Hub-Models) · [Notion](https://www.notion.so/Insight-Hub-In-progress-2aed0b7951b6802d989ac1220d1f5a19?source=copy_link)
+[Backend](https://github.com/raphy0316/InsightHub) · [Model](https://github.com/raphy0316/Insight-Hub-Models) · [Portfolio](https://www.notion.so/Insight-Hub-In-progress-2aed0b7951b6802d989ac1220d1f5a19?source=copy_link)
 
 ---
 
@@ -65,7 +60,7 @@ _An LLM-powered system that extracts, normalizes, and manages story settings_
 - Implements **temporal attribute scoping** for multi-chapter consistency checks  
 - Built with FastAPI + PostgreSQL + Alembic + Docker
 
-[Notion](https://www.notion.so/NovelCanvas-In-progress-27dd0b7951b680b0a838c2a2a430d7b8?source=copy_link)
+[Portfolio](https://www.notion.so/NovelCanvas-In-progress-27dd0b7951b680b0a838c2a2a430d7b8?source=copy_link)
 
 ---
 
@@ -78,7 +73,7 @@ _A social–academic app for 500+ students (Next.js + React Native)_
 - Verified-review system: students staying in chat all semester get a **verified badge**  
 - Built mobile client with React Native; backend on Next.js (App Router)
 
-[Mobile App](https://github.com/raphy0316/BuckyClass-mobile-ReactNative) · [Backend](https://github.com/raphy0316/BuckyClass-general-api) · [Notion](https://www.notion.so/Grow-27dd0b7951b6804a8a4cf7cb0f7489d1?source=copy_link)
+[Mobile App](https://github.com/raphy0316/BuckyClass-mobile-ReactNative) · [Backend](https://github.com/raphy0316/BuckyClass-general-api) · [Portfolio](https://www.notion.so/Grow-27dd0b7951b6804a8a4cf7cb0f7489d1?source=copy_link)
 
 ---
 
@@ -90,7 +85,7 @@ _A dual-backend architecture for designers & clients_
 - Deployed via Docker + Nginx reverse proxy with JWT and Redis token rotation  
 - Real-time whiteboard, multi-user video calls, shared workspace
 
-[Auth Server](https://github.com/jparkrighthere/LivePalette) · [Stream Server](https://github.com/jparkrighthere/streamServer) · [Notion](https://www.notion.so/Live-Pallete-27dd0b7951b680dc9fdeff701c40d3b3?source=copy_link)
+[Auth Server](https://github.com/jparkrighthere/LivePalette) · [Stream Server](https://github.com/jparkrighthere/streamServer) · [Portfolio](https://www.notion.so/Live-Pallete-27dd0b7951b680dc9fdeff701c40d3b3?source=copy_link)
 
 ---
 
