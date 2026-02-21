@@ -37,7 +37,7 @@ _A real-time AI coach analyzing biomechanics from video_
 - Integrated an **LLM feedback module** that generates personalized, coach-style tips  
 - Tech: Python, TensorFlow Hub, PyTorch, OpenCV, FastAPI, Docker, React Native
 
-[GitHub](https://github.com/raphy0316/basketball-form-analyzer) · [Portfolio](https://www.notion.so/Basketball-Shooting-Analyzer-SAIL-OpenAI-UW-Madison-27dd0b7951b680f1b8d4c23a2d0962ea?source=copy_link)
+[IOS Appstore](https://apps.apple.com/us/app/monona-coach/id6754575963) · [GitHub](https://github.com/raphy0316/basketball-form-analyzer) · [Portfolio](https://www.notion.so/Basketball-Shooting-Analyzer-SAIL-OpenAI-UW-Madison-27dd0b7951b680f1b8d4c23a2d0962ea?source=copy_link)
 
 ---
 
@@ -51,6 +51,19 @@ _An LLM-powered system that extracts, normalizes, and manages story settings_
 - Built with FastAPI + PostgreSQL + Alembic + Docker
 
 [Portfolio](https://www.notion.so/NovelCanvas-In-progress-27dd0b7951b680b0a838c2a2a430d7b8?source=copy_link)
+
+---
+
+## **Box Office Revenue Prediction** *(GitHub)*  
+_A structured tabular ML system for movie revenue forecasting_
+
+- Engineered **58+ features** from nested JSON metadata (cast, genres, release timing), expanding **23 raw columns → 81 structured features** with log-scaling and categorical preprocessing  
+- Designed and compared **Linear Regression, XGBoost, and a custom Residual MLP** (BatchNorm + Dropout)  
+- Conducted **ablation studies across 10 configurations** to analyze regularization and bias–variance trade-offs  
+- Improved **RMSLE from 2.10 (baseline) to 0.18**, with tuned XGBoost outperforming deep learning models on structured tabular data  
+- Built with Python + PyTorch + XGBoost + Scikit-learn  
+
+[GitHub](https://github.com/sidupadhyay21/box-office-predictor)
 
 ---
 
