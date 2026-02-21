@@ -54,7 +54,7 @@ _An LLM-powered system that extracts, normalizes, and manages story settings_
 
 ---
 
-## **Box Office Revenue Prediction** 
+## **Box Office Revenue Prediction - ML project**
 _A structured tabular ML system for movie revenue forecasting_
 
 - Engineered **58+ features** from nested JSON metadata (cast, genres, release timing), expanding **23 raw columns → 81 structured features** with log-scaling and categorical preprocessing  
