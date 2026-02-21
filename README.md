@@ -26,7 +26,7 @@ raphael.oh0316@gmail.com · [Portfolio](https://www.notion.so/Portfolio-27cd0b79
 
 # Featured Projects
 
-## **Monona - Summer of AI Laboratory (SAIL), UW–Madison × OpenAI **
+## **Monona - Summer of AI Laboratory (SAIL), UW–Madison × OpenAI**
 _A real-time AI coach analyzing biomechanics from video_
 
 - Fine-tuned **YOLOv8 + MoveNet Thunder**, achieving **94% detection accuracy** and **~60ms inference**  
