@@ -5,7 +5,7 @@ I build **AI-powered systems**, **real-time collaboration tools**, and **scalabl
 My work focuses on **multimodal AI**, **retrieval systems (RAG, vector search, BM25)**,  
 and **ML-powered user experiences**.
 
-raphael.oh0316@gmail.com · [Resume](https://1drv.ms/b/c/6fbd824c4c15afcd/EU5iB0FN9fZDr4LYCyL3RJQBCLek9TPMvR9pbOnrS7aYZQ?e=NEuVNK) · [Portfolio](https://www.notion.so/Portfolio-27cd0b7951b680aca051d1c3cd7d6ced?source=copy_link) · [LinkedIn](https://www.linkedin.com/in/raphael-oh-3155b1332/)  
+raphael.oh0316@gmail.com · [Portfolio](https://www.notion.so/Portfolio-27cd0b7951b680aca051d1c3cd7d6ced?source=copy_link) · [LinkedIn](https://www.linkedin.com/in/raphael-oh-3155b1332/)  
 
 ---
 
@@ -13,16 +13,16 @@ raphael.oh0316@gmail.com · [Resume](https://1drv.ms/b/c/6fbd824c4c15afcd/EU5iB0
 
 **Languages**: Python, Java, TypeScript, C++  
 **Frameworks**: FastAPI, Spring Boot, Node.js (Express), Next.js, React Native (Expo), Django  
-**Databases**: PostgreSQL (Neon), Supabase, MySQL, MongoDB, Redis  
-**Infra/Data**: Docker, Nginx, AWS (EC2/S3/Textract/Comprehend Medical), GCP Dataproc, Google Cloud Run, Kafka, Celery, Firebase Authentication & Realtime DB, Apache Spark  
-**AI/ML**: PyTorch, Hugging Face (Transformers, BioBERT), CLIP/CLAP/EmoCLIP/ImageBind, YOLOv8, MoveNet, scikit-learn, Pinecone (Vector DB), BM25/TF-IDF/RRF, AWS Comprehend Medical, Tesseract/PaddleOCR/Textract  
-**MLOp**s: Vector DB pipelines, ETL pipelines, batch/stream data ingestion, distributed inference (Celery + Redis), model serving (FastAPI + Docker), monitoring (Prometheus + Grafana), profiling & experiment tracking  
+**Databases**: PostgreSQL, MySQL, MongoDB, VectorDB(Pinecone), Neo4j, Redis  
+**Infra/Data**: Docker, Nginx, AWS (EC2/S3), GCP Dataproc, Google Cloud Run, Kafka, Celery, Firebase Authentication & Realtime DB, Apache Spark  
+**AI/ML**: RAG (Hybrid Retrieval, BM25, Pinecone, RRF), LLM Orchestration, Model Evaluation, LangChain, LangGraph, PyTorch, scikit-lear, Hugging Face (Transformers), Models(CLIP/CLAP/EmoCLIP/ImageBind, YOLOv8, MoveNet)
+**MLOp**s: Vector DB pipelines, ETL pipelines, batch/stream data ingestion, distributed inference (Celery + Redis), model serving, monitoring (Prometheus + Grafana)
 
 ---
 
 # Featured Projects
 
-## **SAIL — AI Basketball Shooting Coach (UW–Madison × OpenAI)**
+## **Monona - Summer of AI Laboratory (SAIL), UW–Madison × OpenAI **
 _A real-time AI coach analyzing biomechanics from video_
 
 - Fine-tuned **YOLOv8 + MoveNet Thunder**, achieving **94% detection accuracy** and **~60ms inference**  
@@ -34,20 +34,6 @@ _A real-time AI coach analyzing biomechanics from video_
 - Tech: Python, TensorFlow Hub, PyTorch, OpenCV, FastAPI, Docker, React Native
 
 [GitHub](https://github.com/raphy0316/basketball-form-analyzer) · [Portfolio](https://www.notion.so/Basketball-Shooting-Analyzer-SAIL-OpenAI-UW-Madison-27dd0b7951b680f1b8d4c23a2d0962ea?source=copy_link)
-
----
-
-## **InsightHub — Multimodal AI Evaluation Platform** *(In Progress)*
-_A benchmarking & evaluation platform for multimodal models (CLIP, CLAP, ImageBind)_
-
-- Built **Celery + Redis** distributed inference pipeline  
-- Benchmarked multimodal models for **image → music retrieval**  
-- Integrated **CLIP × CLAP**, **EmoCLIP**, and **ImageBind** with cosine similarity + text-pivot alignment  
-- Added **RRF (Reciprocal Rank Fusion)** ensemble scoring  
-- Monitored runtime with **Prometheus + Grafana**, including GPU/CPU load & worker queues  
-- Designed scalable DB schema: models, datasets, embeddings, runs, metrics
-
-[Backend](https://github.com/raphy0316/InsightHub) · [Model](https://github.com/raphy0316/Insight-Hub-Models) · [Portfolio](https://www.notion.so/Insight-Hub-In-progress-2aed0b7951b6802d989ac1220d1f5a19?source=copy_link)
 
 ---
 
