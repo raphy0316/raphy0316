@@ -1,9 +1,13 @@
 # Hi, I'm Raphael (Hyuntaek) Oh
 
-I'm a **full-stack software engineer & CS student at UW–Madison (Fall 2026)**.  
-I build **AI-powered systems**, **real-time collaboration tools**, and **scalable backend infrastructure**.  
-My work focuses on **multimodal AI**, **retrieval systems (RAG, vector search, BM25)**,  
-and **ML-powered user experiences**.
+I'm a Computer Science student at UW–Madison (Fall 2026).
+
+I focus on Applied AI and backend-driven full-stack development, 
+building production systems that combine LLMs, retrieval pipelines, 
+and scalable cloud infrastructure.
+
+My work spans RAG systems, multimodal AI pipelines, 
+and distributed backend architectures.
 
 raphael.oh0316@gmail.com · [Portfolio](https://www.notion.so/Portfolio-27cd0b7951b680aca051d1c3cd7d6ced?source=copy_link) · [LinkedIn](https://www.linkedin.com/in/raphael-oh-3155b1332/)  
 
