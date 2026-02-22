@@ -19,8 +19,8 @@ raphael.oh0316@gmail.com · [Portfolio](https://www.notion.so/Portfolio-27cd0b79
 **Frameworks**: FastAPI, Spring Boot, Node.js (Express), Next.js, React Native (Expo), Django  
 **Databases**: PostgreSQL, MySQL, MongoDB, VectorDB(Pinecone), Neo4j, Redis  
 **Infra/Data**: Docker, Nginx, AWS (EC2/S3), GCP Dataproc, Google Cloud Run, Kafka, Celery, Firebase Authentication & Realtime DB, Apache Spark  
-**AI/ML**: RAG (Hybrid Retrieval, BM25, Pinecone, RRF), LLM Orchestration, Model Evaluation, LangChain, LangGraph, PyTorch, scikit-lear, Hugging Face (Transformers), Models(CLIP/CLAP/EmoCLIP/ImageBind, YOLOv8, MoveNet)
-**MLOp**s: Vector DB pipelines, ETL pipelines, batch/stream data ingestion, distributed inference (Celery + Redis), model serving, monitoring (Prometheus + Grafana)
+**AI/ML**: RAG (Hybrid Retrieval, BM25, Pinecone, RRF), LLM Orchestration, Model Evaluation, LangChain, LangGraph, PyTorch, scikit-lear, Hugging Face (Transformers), Models(CLIP/CLAP/EmoCLIP/ImageBind, YOLOv8, MoveNet)  
+**MLOp**s: Vector DB pipelines, ETL pipelines, batch/stream data ingestion, distributed inference (Celery + Redis), model serving, monitoring (Prometheus + Grafana)  
 
 ---
 
